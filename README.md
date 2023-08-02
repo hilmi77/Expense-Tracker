@@ -1,5 +1,5 @@
 ﻿# Expense-Tracker(REACT)
-# USaGE
+ USAGE
 npm install
 
 npm start
